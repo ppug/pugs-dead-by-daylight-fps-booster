@@ -1,0 +1,4 @@
+Features
+- Un-cap FPS
+- Boost FPS by eliminating junks stuff
+- Optimized graphic settings
